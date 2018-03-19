@@ -1,0 +1,58 @@
+/*
+ Theme Name:   My Piano Theme
+ Author:       Vicki Edawrds
+ Description:  This is the first theme created by Vicki a child theme of WordPress' Twenty Seventeen theme
+ Template:     twentyseventeen
+*/
+
+.custom-header-media img {
+	 filter: opacity(30%);
+}
+
+
+
+a.post-edit-link {
+	display: none;
+}
+
+label {
+	font-family: assistant;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.wpcf7-submit {
+	font-family: assistant;
+}
+
+.site-info a {
+	font-family: assistant;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+#secret {
+	color: white;
+}
+
+#main-events {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 10px;
+}
+
+
+
+.events {
+	text-align: left;
+	width: 300px;
+	height: 150px;
+	padding-left: 20px;
+	
+}
+
+.logo {
+	height: 150px;
+	width: 150px;
+}
+

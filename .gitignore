@@ -117,17 +117,17 @@ wp-content/plugins/*
 # ignore everything in the "themes" directory,
 wp-content/themes/*
 # except our custom theme
-!wp-content/themes/understrap-child
+!wp-content/themes/twentyseventeen-child
 # apart from these files and folders in our child theme
-wp-content/themes/understrap-child/.sass-cache
-wp-content/themes/understrap-child/bower_components
-wp-content/themes/understrap-child/node_modules
-wp-content/themes/understrap-child/src/*
-wp-content/themes/understrap-child/understrap.zip
-wp-content/themes/understrap-child/dist
-wp-content/themes/understrap-child/dist-product
-wp-content/themes/understrap-child/npm-debug.log
+wp-content/themes/twentyseventeen-child/.sass-cache
+wp-content/themes/twentyseventeen-child/bower_components
+wp-content/themes/twentyseventeen-child/node_modules
+wp-content/themes/twentyseventeen-child/src/*
+wp-content/themes/twentyseventeen-child/understrap.zip
+wp-content/themes/twentyseventeen-child/dist
+wp-content/themes/twentyseventeen-child/dist-product
+wp-content/themes/twentyseventeen-child/npm-debug.log
 
 # exclude node modules
-wp-content/themes/understrap-child/node_modules/*
-wp-content/themes/understrap-child/npm-debug.log
+wp-content/themes/twentyseventeen-child/node_modules/*
+wp-content/themes/twentyseventeen-child/npm-debug.log
